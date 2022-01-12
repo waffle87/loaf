@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "typeC")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
+  (lib (name "mx")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/misc.pretty")(options "")(descr ""))
+)
