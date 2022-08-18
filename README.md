@@ -4,5 +4,5 @@
 
   <img src="img/top.svg">
   <img src="img/bottom.svg">
+  <img src="https://i.imgur.com/qyJlaF3.jpeg">
 </div>
-For questions or suggestions, open issue or contact jack@lzycat.xyz
